@@ -1,0 +1,15 @@
+{
+    "White_Cards":
+    [
+        {"text": "Furries"},
+        {"text": "Watermelon"},
+        {"text": "Yo-yos"}
+    ],
+    
+    "Black_Cards": 
+    [
+        {"text": "You are ______", "blanks": 1},
+        {"text": "And this is why _____ is called _____", "blanks": 2},
+        {"text": "_____ is what you do when you squish something", "blanks": 1}
+    ]
+}
